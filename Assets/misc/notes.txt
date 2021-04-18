@@ -1,0 +1,24 @@
+sound manager script and up set on everything->
+program other enemies->
+continue screen rewarded ad->
+menu animations(after drawing)->
+level progression->
+
+______________________________________
+set up google play services at the end of the night
+_________________________________________
+magnitude in the sin wave function determines how high it goes
+frequency determines how fast it goes up n down and where it points
+______________________________________
+I Ads     : Use RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList("070DC918DA7653E44A77BAA0543DFE12") to get test ads on this device.
+_________________________________________
+levels 
+easy = 0
+normal = 1 
+hard = 2
+super hard = 3
+_________________________________________
+bosses appear randomly at certain intervals but whether or not the boss appears the level increases
+Except for the first time they play the boss must appear a 100% of the time 
+
+

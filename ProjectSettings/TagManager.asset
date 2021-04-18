@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - enemy
+  - wall
+  - boss
+  - postprocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3252020523
+    locked: 0
+  - name: enemy
+    uniqueID: 711353235
+    locked: 0
+  - name: player
+    uniqueID: 3545142021
+    locked: 0
+  - name: effects
+    uniqueID: 3200981529
+    locked: 0
+  - name: collectible
+    uniqueID: 2006021455
+    locked: 0
+  - name: effects2
+    uniqueID: 1184364839
+    locked: 0
+  - name: effects3
+    uniqueID: 3031283677
+    locked: 0
+  - name: effects4
+    uniqueID: 2241952275
+    locked: 0
